@@ -6,7 +6,7 @@
     
     A Lista de usuário é a seguinte:
     
-    ```json
+    ```
     const usuários = [ 
     	{ nome: 'Thiago', idade: 16 },
     	{ nome: 'Jade', idade: 25 },
