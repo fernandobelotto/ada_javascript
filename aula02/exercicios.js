@@ -66,3 +66,14 @@ const listaDentroDeLista = [
     [],
     []
 ]
+
+
+const nome = 'fernando'
+
+const sobrenome = 'bosco'
+
+const nomeCompleto = nome + ' - ' + sobrenome
+
+console.log(`${nome} - ${sobrenome}`)
+
+`fernando - bosco`

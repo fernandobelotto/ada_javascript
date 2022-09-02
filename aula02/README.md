@@ -5,7 +5,7 @@ Por exemplo aula2-juliana-gomes.js (logo mais eu vou liberar para você poderem 
 
 1. Crie uma variável usando const e usar o console.log nela
 
-2. Cria duas variáveis usando let e atribua um nome de fruta (string) para cada uma delas, em seguida, faça a concatenação das duas e atribuir essa operação para uma terceira variável também criada com let!
+2. Cria duas variáveis usando let e atribua um nome de fruta (string) para cada uma delas, em seguida, faça a concatenação das duas e atribuir essa operação para uma terceira variável também criada com let, então faca o console.log dela!
 
 3. Calcule o número entre a soma de duas variáveis, atribua a uma nova variavel, depois faça o console.log dessa ultima
 
