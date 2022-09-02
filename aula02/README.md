@@ -1,13 +1,13 @@
 Exercícios da aula de hoje!
 
-Para cada exercício criei um arquivo chamado "aula2-{primeiroNome-segundoNome}.js" e escreva o exercicio ali!
+Para cada exercício criei um arquivo chamado "aula2-{primeiroNome-ultimoNome}.js" e escreva o exercicio ali!
 Por exemplo aula2-juliana-gomes.js (logo mais eu vou liberar para você poderem enviar pelo class, mas não é para hoje)
 
-1. Crie uma variável usando const e fala o console.log dela
+1. Crie uma variável usando const e usar o console.log nela
 
-2. Cria duas variáveis usando let e atribua um nome de fruta (string) para cada uma delas, em seguida, faça a concatenação das duas e atribua essa operação para uma terceira variável!
+2. Cria duas variáveis usando let e atribua um nome de fruta (string) para cada uma delas, em seguida, faça a concatenação das duas e atribuir essa operação para uma terceira variável também criada com let!
 
-3. Calcule o número de segundos que um possue usando operadores de multiplicação e atribua a uma variável, depois faça o console.log da variável
+3. Calcule o número entre a soma de duas variáveis, atribua a uma nova variavel, depois faça o console.log dessa ultima
 
 4. Faça o console.log da função typeof para todos os tipos primitivos do javascript (caso tenha dificuldade, faça uma busca no mdn)
 
