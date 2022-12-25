@@ -1,4 +1,4 @@
-# Lógica de programação com Javascript!
+# Programming logic with Javascript!
 
-Um curso Ada Tech
+Ada Tech Course
 
